@@ -49,6 +49,7 @@ This library operates by **directly writing to VGA memory (`0xA0000`)**, bypassi
 ```sh
 # Example (Compiling with Borland C++)
 bcc graphics.c -o graphics.exe
+```
 
 ## 🔍 **Why This Matters**
 This project is an example of pre-OpenGL/DirectX game development, demonstrating:
